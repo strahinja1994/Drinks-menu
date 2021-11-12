@@ -126,7 +126,7 @@ header .price {
     padding: 0px;
   }
 }
-@media screen and (min-width: 650px) and (max-width: 999px) {
+@media screen and (min-width: 650px) and (max-width: 1099px) {
   .menu__center {
     max-width: 100%;
   }
